@@ -1,9 +1,9 @@
 ---
-layout: default
+Yay! or Nay!
 ---
 
-## Welcome to another page
+# Hey! It's page 2!  
 
-_yay_
+# React app is in progress... please wait.
 
 [back](./)
