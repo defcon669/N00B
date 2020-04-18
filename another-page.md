@@ -4,6 +4,6 @@ Yay! or Nay!
 
 # Hey! It's page 2!  
 
-## React app is in progress... please wait...
+# The ReactJS app is also a work in progress.  Simply check the boxes and uncheck them, that's all you can do right now.
 
 [back](./)
