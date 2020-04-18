@@ -1,5 +1,5 @@
 ---
-layout: default
+Yes ? No : Possibly
 ---
 
 This site is a work in progress so please excuse the lack of content.  As things are added to the site, the end result will be astonishing.
