@@ -1,6 +1,5 @@
----
-Yay! or Nay!
----
+
+
 
 # Hey! It's page 2!  
 
