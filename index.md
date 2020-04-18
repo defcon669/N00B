@@ -12,7 +12,7 @@ For your entertainment, while very brief take a look at the link above for somet
 
 If you ever have the time and want to peruse regarding a free COVID-19 course...
 
-go to [https://ibginstitute.com/](./https://ibginstitute.com/)
+go to [https://ibginstitute.com/](https://ibginstitute.com/)
 
 There is where the information can be found.  While it won't be given away by yours truly, I'll leave the navigation and search up to you.  I want you to look for the course and enroll on your own, if interested.  Keep in mind, it's a self-paced course and for the most part it's self-taught minus the lectures twice a week.  
 
